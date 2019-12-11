@@ -1,0 +1,126 @@
+a {
+    text-decoration: none;
+    color: #222;
+
+}
+body {
+        font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
+        background: #fff;
+        color: #222;
+        line-height: 24px;
+        font-size: small;
+        height: 100%;
+        margin: 0;
+        display: block;
+    }
+#header {
+    display: inline-block;
+    position: absolute;
+    width: 100%;
+}
+#corp {
+    position: absolute;
+    padding: 19px 0px 0px 25px;
+    z-index: 10;
+}   
+#account {
+    position: relative;
+    text-align: right;
+    padding: 19px 30px 0px 0px;
+}
+#search-panel {
+    display: block;
+    text-align: -webkit-center;
+    padding-top: 24px;
+    margin: 0 auto;
+}
+#central-logo {
+    text-align: -webkit-center;
+    padding-top: 197px;
+}
+input[type=text] {
+    line-height: 34px;
+    height: 34px;
+    font-size: 16px;
+    width: 584px;
+    padding: 5px 0px 5px 40px;
+    border: 1px solid #c5c5c5;
+    border-radius: 24px;
+    background-color: white;
+    background-image: url('img/searchicon.png');
+    background-position: 15px 15px;
+    background-repeat: no-repeat;
+    background-size: 16px;
+}
+.srcbtn {
+    margin: 37px 6px;
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1) !important;
+    border-width: 1px;
+    border-style: solid;
+    font-size: 14px;
+    padding: 0px 16px;
+    text-align: center;
+    border: 1px solid #f2f2f2;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    border-radius: 8px;
+}
+#footer {
+    bottom: 0;
+    position: fixed;
+    display: inline-block;
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    height: 40px;
+    width: 100%;
+    font-size: 14px;
+    vertical-align: middle;
+    height: 40px;
+    line-height: 40px;    
+}
+#left-footer {
+    position: absolute;
+    z-index: 10;
+    padding-left: 25px;
+}
+#right-footer {
+    position: relative;
+    text-align: right;
+    padding-right: 30px;
+}
+.ulltr {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li.ulltr {
+    float: left;
+    display: block;
+    padding-right: 19px;
+}
+.ulrtl {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;    
+}
+li.ulrtl {
+    float: right;
+    display: block;
+    padding-left: 19px;
+}
+#signin {
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+    color: #fff;
+    display: inline-block;
+    line-height: 28px;
+    padding: 0 12px;
+    border-radius: 2px;
+    font-size: 13px;
+    
+}

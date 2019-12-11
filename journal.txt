@@ -1,0 +1,13 @@
+1 Access and Un'minimize the page code
+2 Clone some <head> information, cut out unknow meta tags.
+    Obs: Theres actually 12k lines of code in that simple page, impressive!
+3 Gathered the font family.
+4 Decided to not gather deep in the css file. (feels like cheating)
+5 Came back on that decision on the likes of performance.
+6 Found out some @mediakit about resposiveness, will ignore because fells too advanced for now.
+7 Set navigation bar css
+    Will use own names for better understanding on divs.
+    Obs: After 5 hours I find myself going back and forth with divs and css, despite acheving desired results I go back for better understanding and end up breaking them.
+    at moment Im between use or not use float elements or figure it out the right combination of display and position tags to achiev the 2 columns menu.
+8 Used <ul> and float in menu
+9 After some hours things get easier till I found the icon image sprite thing that sounds complicated, decided to use webicons instead.
