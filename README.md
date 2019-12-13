@@ -1,1 +1,1 @@
-From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css) as a part of the Microveser pre-course training.
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css) as a part of the Microverse pre-course training.
